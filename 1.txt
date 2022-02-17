@@ -1,0 +1,5 @@
+Check     1500.00
+dinner     -200.00
+shopping     -100.00
+Stock     2000.00
+                   Balance: 3200.00
